@@ -1,0 +1,85 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #10233A;
+}
+
+/* Container */
+.container {
+    max-width: 1100px;
+    background-color: #ccc;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+/* Spans */
+.bold {
+    font-weight: bold;
+}
+
+/* Container do cabeçalho */
+.header-container {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 40px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+/* Imagem principal */
+.featured-image {
+    text-align: center;
+}
+
+/* Sobre o filme */
+.about-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #10233A;   
+    border-bottom: 1px dashed #10233A;
+    text-align: justify;
+    line-height: 30px;
+}
+
+/* Curiosidades */
+.curiosities-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #10233A;   
+    border-bottom: 1px dashed #10233A; 
+    text-align: justify;
+}
+
+.curiosities-container li {
+    line-height: 30px;
+}
+
+/* Container de citações */
+.quotes-container {
+    background-color: #10233A;
+    color: #ccc;
+    padding: 30px;
+}
+
+.quotes-container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quotes-container p {
+    font-style: italic;
+}
+
+/* Segunda image */
+.image-bold {
+    text-align: center;
+    font-weight: bold;
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #10233A;   
+    border-bottom: 1px dashed #10233A; 
+}
